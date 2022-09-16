@@ -1,0 +1,11 @@
+restApiServer:
+  baseUrl: ###
+  path: ###
+works:
+  key: ###
+server:
+  port: ###
+spring:
+  redis:
+    host: ###
+    port: ###
